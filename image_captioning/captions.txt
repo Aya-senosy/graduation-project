@@ -1,0 +1,163 @@
+image, caption
+1.jpg, A woman gently holding a duck.
+1.jpg, A woman strolling down the street.
+2.jpg, A man selling a variety of fruits.
+2.jpg, A man selling ripe bananas.
+3.jpg, Women purchasing fresh vegetables.
+3.jpg, A vegetable vendor at the bustling market.
+4.jpg, A mosque located at the end of the street.
+4.jpg, People leisurely walking along the street.
+5.jpg, Individuals strolling through the lively market.
+5.jpg, Vendors selling clothes and guitars.
+6.jpg, People walking alongside a beautiful mosque.
+6.jpg, A picturesque mosque.
+7.jpg, A man selling an assortment of vegetables.
+7.jpg, A man standing under an umbrella with fresh produce.
+8.jpg, A man with a bountiful collection of vegetables.
+8.jpg, A man holding ripe tomatoes.
+9.jpg, A woman selling a variety of vegetables.
+9.jpg, A smiling woman selling cauliflower on the street.
+10.jpg, A woman buying fresh vegetables.
+10.jpg, A woman with glasses holding a selection of vegetables.
+11.jpg, A man selling tomatoes and zucchini.
+11.jpg, A man holding plump tomatoes.
+12.jpg, A woman clutching a bundle of onions.
+12.jpg, People gathered around a display of fresh vegetables.
+13.jpg, An abundant array of vegetables.
+13.jpg, Tomatoes zucchini cauliflower and onions.
+14.jpg, A colorful assortment of fruits.
+14.jpg, Fruits arranged neatly under an umbrella.
+15.jpg, A man purchasing vegetables.
+15.jpg, A man holding ripe tomatoes in his hand.
+16.jpg, Fruits available for sale.
+16.jpg, Apples and mangoes on display.
+17.jpg, A man selling fruits under an umbrella.
+17.jpg, Various types of fruits for sale.
+18.jpg, Bananas and apples showcased together.
+18.jpg, A dedicated section for an assortment of fruits.
+19.jpg, A majestic mosque.
+19.jpg, Men engaged in prayer at the mosque.
+20.jpg, People praying at the mosque.
+20.jpg, Men standing in orderly lines at the mosque.
+21.jpg, A radiant and beautifully adorned mosque.
+21.jpg, A mosque exuding charm with its exquisite decorations.
+22.jpg, Vehicles passing in front of a grand mosque.
+22.jpg, A mosque located at the end of the bustling street.
+23.jpg, Al Aqsa Mosque.
+23.jpg, The magnificent Al Aqsa Mosque.
+24.jpg, Al Aqsa a symbol of Muslims.
+24.jpg, Al Aqsa Mosque with a graceful tree alongside it.
+25.jpg, Individuals walking within the premises of Al Aqsa Mosque.
+25.jpg, People gathered in front of the revered Al Aqsa Mosque.
+26.jpg, Palestinians seated in the courtyards of Al Aqsa.
+26.jpg, Al Aqsa Mosque surrounded by Palestinians embracing its presence.
+27.jpg, Devotees engrossed in prayer within the courtyards of Al Aqsa.
+27.jpg, People standing in orderly rows praying while Al Aqsa stands in the backdrop.
+28.jpg, a car in motion on a bustling street.
+28.jpg, a car navigating through urban buildings.
+29.jpg, pedestrians strolling down a historic street.
+29.jpg, a lively street filled with people and buildings.
+30.jpg, children leisurely walking along the street.
+30.jpg, a cheerful child joyfully running in the street.
+31.jpg, an elderly man gracefully strolling down the street.
+31.jpg, people walking through a bustling and crowded street.
+32.jpg, a mosque located at the end of a charming street.
+32.jpg, a well lit street leading to a beautiful mosque.
+33.jpg, individuals strolling in a vibrant marketplace.
+33.jpg, the popular market abuzz with activity and people.
+34.jpg, a cart displaying fresh watermelons.
+34.jpg, the watermelon seller walking ahead of a group of men.
+35.jpg, a street teeming with cars and people.
+35.jpg, a bustling thoroughfare with a constant flow of cars and buses.
+36.jpg, children and women interacting on the street.
+36.jpg, children happily engaged in play on the street.
+37.jpg, a child riding a bicycle.
+37.jpg, school children returning home after a day of classes.
+38.jpg, men walking along a narrow street.
+38.jpg, cars parked alongside the street.
+39.jpg, sellers occupying booths on a car filled street.
+39.jpg, a street bustling with cars and vendors.
+40.jpg, a lively street with a mix of cars and market stalls.
+40.jpg, a boy searching amidst cars and bustling market activity.
+41.jpg, an old man walking with a food cart trailing behind.
+41.jpg, a food cart positioned next to a parked car.
+42.jpg, a man selling baked goods on a street filled with cars.
+42.jpg, a man amidst a backdrop of cars and buildings.
+43.jpg, a woman standing at the doorway of her house.
+43.jpg, a street view with a woman gazing at the scene.
+44.jpg, a girl energetically running through an agricultural field.
+44.jpg, a lush green field with a girl running through it.
+45.jpg, people engaged in agricultural work in the fields.
+45.jpg, an agriculture field adorned with abundant greenery.
+46.jpg, a vast agricultural field with the pyramids in the background.
+46.jpg, a field characterized by numerous palm trees.
+47.jpg, a man with a cart traversing between agricultural fields.
+47.jpg, a cart moving through fields with crops.
+48.jpg, a street lined with cars and buildings.
+48.jpg, a moderately busy street with a few cars in motion.
+49.jpg, cars navigating the rain soaked streets.
+49.jpg, a wet street with cars in motion.
+50.jpg, cars in motion with a prominent building in the background.
+50.jpg, a broad avenue with cars traversing its length.
+51.jpg, a girl standing beside a parked passenger car.
+51.jpg, passenger cars and motorcycles moving along the street with a girl standing nearby.
+52.jpg, passenger cars lining the street.
+52.jpg, a street with parked passenger cars.
+53.jpg, people walking near a mosque.
+53.jpg, individuals strolling on a vibrant street with an impressive mosque.
+54.jpg, cars traversing the streets at night.
+54.jpg, a nocturnal scene with numerous cars in motion.
+55.jpg, cars parked on the side of the street.
+55.jpg, bustling activity with buses and cars traversing the street.
+56.jpg, a grocery store on a city street.
+56.jpg, a grocery store with a chair placed in front of it.
+57.jpg, a large supermarket.
+57.jpg, an expansive supermarket offering a wide array of goods.
+58.jpg, a supermarket situated on a street.
+58.jpg, a street showcasing a prominent and spacious supermarket.
+59.jpg, a man standing in front of a supermarket.
+59.jpg, a supermarket with a man positioned outside.
+60.jpg, a cozy living room.
+60.jpg, a comfortable living room featuring couches and a TV.
+61.jpg, a living room furnished with chairs and a TV.
+61.jpg, a living room with an inviting open door.
+62.jpg, a well appointed bathroom.
+62.jpg, a bathroom equipped with a mirror.
+63.jpg, a spacious and well lit bathroom.
+63.jpg, a bathroom featuring a washing machine.
+63.jpg, a standard bathroom.
+63.jpg, the bathroom door ajar revealing the interior.
+65.jpg, a functional kitchen.
+65.jpg, a kitchen complete with a sink.
+66.jpg, a kitchen area with a washing machine at the far end.
+66.jpg, a kitchen furnished with a fridge and cooker.
+67.jpg, a kitchen sink.
+67.jpg, a sink located within the kitchen.
+68.jpg, A refreshing water bottle.
+68.jpg, A water bottle placed against a backdrop of palm trees.
+69.jpg, An open book accompanied by a pen.
+69.jpg, A pen placed beside a book.
+70.jpg, A captivating book.
+70.jpg, A book resting on a wooden surface.
+71.jpg, A man seeking shelter under an umbrella.
+71.jpg, A man comfortably seated on a chair under an umbrella.
+72.jpg, Individuals enjoying the shade under an umbrella.
+72.jpg, A woman engaged in a phone conversation.
+73.jpg, A bottle and a book are arranged neatly on the table.
+73.jpg, A cup and a pen are positioned on the table.
+74.jpg, A water bottle on a surface.
+74.jpg, A bottle containing water.
+75.jpg, A bottle of water is placed on a desk.
+75.jpg, A bottle captured in the image.
+76.jpg, A learning environment.
+76.jpg, Individuals seated in a classroom.
+77.jpg, Students gathered in a classroom.
+77.jpg, A classroom occupied with people.
+78.jpg, Individuals engaged in a classroom setting.
+78.jpg, A man holding a pen in a classroom.
+79.jpg, A classroom filled with students.
+79.jpg, A classroom scene featuring people.
+80.jpg, a classroom.
+80.jpg, a large classroom with desks.
+81.jpg, a classroom.
+81.jpg, people in a classroom.

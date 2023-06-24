@@ -3,8 +3,11 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+import pyttsx3
 # %matplotlib inline
 from glob import glob
+import os
+from os import listdir
 from tqdm.notebook import tqdm
 tqdm.pandas()
 import cv2, warnings
@@ -16,9 +19,20 @@ from tensorflow.keras.applications import ResNet50
 from tensorflow.keras.utils import to_categorical, plot_model
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 from tensorflow.keras.callbacks import ModelCheckpoint
+engine = pyttsx3.init()
+def AI_speak(label):
+    engine.setProperty("rate", 170)
+    engine.say(label)
+    engine.runAndWait()
+AI_speak("image captioning has been activated")
 
-img_path = './images/'
-images = glob(img_path+'*.jpg')
+# get the path/directory
+folder_dir = "images"
+images=[]
+for image in os.listdir(folder_dir):
+    # if (images.endswith(".png")):
+        images.append(image)
+
 
 captions = open('captions.txt','rb').read().decode('utf-8').split('\n')
 
@@ -225,7 +239,7 @@ while count < 25:
                   break
   caption = caption + ' ' + sampled_word
   pred_text.append(sampled_word)
-
+AI_speak(caption)
 plt.figure(figsize=(5,5))
 plt.imshow(test_img)
 plt.xlabel(caption)
